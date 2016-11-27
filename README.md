@@ -4,6 +4,8 @@ Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 Uses youtube-search-api
 
+Boilerplate obtained from Steven Grider's [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter)
+
 ###Getting Started###
 
 There are two methods for getting started with this repo.
